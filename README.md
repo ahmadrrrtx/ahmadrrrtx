@@ -113,7 +113,7 @@
 
 | # | Project | Type | Core Stack | ⭐ |
 |:---:|---|:---:|---|:---:|
-| `01` | ⚡ **Bijli Bacha AI** — NEPRA 2026 tariff analyzer · | Civic Tech | `Python` `Gemini` `Cloud Run` | 🏆 |
+| `01` | ⚡ **Bijli Bacha AI** — NEPRA 2026 tariff analyzer  | Civic Tech | `Python` `Gemini` `Cloud Run` | 🏆 |
 | `02` | 🛡️ **ShieldHire** — Anonymous ZK resume verification · MLH 2026 | Web3 | `TS` `ZK` `Docker` | `3` |
 | `03` | 📡 **Gemma RSS Monitor** — 25+ dev feeds · local LLM · $0 API cost | DevTools | `Python` `Ollama` `Slack` | `2` |
 | `04` | 🎓 **RRRTX FreeVerse** — Quiz → 80% → verifiable PDF + QR cert | EdTech | `TS` `React` `Vercel` | — |
@@ -260,7 +260,7 @@
 <!-- 3D GLOBE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `$ ./render --3d-globe`
+## 🌍 3D CONTRIBUTION GLOBE
 
 <br>
 
@@ -281,7 +281,7 @@
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `$ ./stats.sh --theme=neural`
+## 📊 GITHUB STATS
 
 <br>
 
