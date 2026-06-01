@@ -46,7 +46,7 @@
 <!-- WHOAMI -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > whoami
+## `$ whoami`
 
 <br>
 
@@ -86,7 +86,7 @@
 <!-- ACTIVE PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ps aux \| grep active
+## `$ ps aux | grep active`
 
 <br>
 
@@ -107,13 +107,13 @@
 <!-- FULL PROJECT CATALOG -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ls -la /deployments/
+## `$ ls -la /deployments/`
 
 <br>
 
 | # | Project | Type | Core Stack | ⭐ |
 |:---:|---|:---:|---|:---:|
-| `01` | ⚡ **Bijli Bacha AI** — NEPRA 2026 tariff analyzer · Google AI Seekho Finalist | Civic Tech | `Python` `Gemini` `Cloud Run` | 🏆 |
+| `01` | ⚡ **Bijli Bacha AI** — NEPRA 2026 tariff analyzer · | Civic Tech | `Python` `Gemini` `Cloud Run` | 🏆 |
 | `02` | 🛡️ **ShieldHire** — Anonymous ZK resume verification · MLH 2026 | Web3 | `TS` `ZK` `Docker` | `3` |
 | `03` | 📡 **Gemma RSS Monitor** — 25+ dev feeds · local LLM · $0 API cost | DevTools | `Python` `Ollama` `Slack` | `2` |
 | `04` | 🎓 **RRRTX FreeVerse** — Quiz → 80% → verifiable PDF + QR cert | EdTech | `TS` `React` `Vercel` | — |
@@ -146,7 +146,7 @@
 <!-- NEURAL SKILL MATRIX -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > cat /sys/neural-matrix.json
+## `$ cat /sys/neural-matrix.json`
 
 <br>
 
@@ -169,7 +169,7 @@
 <!-- CREDENTIALS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > cat /var/log/credentials.log
+## `$ cat /var/log/credentials.log`
 
 <br>
 
@@ -206,7 +206,7 @@
 <!-- EXPERIENCE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > cat /var/log/experience.log
+## `$ cat /var/log/experience.log`
 
 <br>
 
@@ -228,7 +228,7 @@
 <!-- LIBRARY -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ls -la /library/
+## `$ ls -la /library/`
 
 <br>
 
@@ -260,7 +260,7 @@
 <!-- 3D GLOBE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ./render --3d-globe
+## `$ ./render --3d-globe`
 
 <br>
 
@@ -281,7 +281,7 @@
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ./stats.sh --theme=neural
+## `$ ./stats.sh --theme=neural`
 
 <br>
 
@@ -309,7 +309,7 @@
 <!-- CONTACT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## > ping --contact
+## `$ ping --contact`
 
 <br>
 
