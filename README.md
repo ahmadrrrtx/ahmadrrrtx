@@ -1,27 +1,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070D,18:00D2FF,48:8B5CF6,82:FF006E,100:05070D&text=RRRTX%20%2F%2F%20NEURAL%20CORE&fontColor=E6EDF3&fontSize=50&fontAlignY=38&desc=AI%20PRODUCTS%20%E2%80%A2%20AGENT%20WORKFLOWS%20%E2%80%A2%20AUTOMATION%20SYSTEMS&descAlignY=58&descSize=16&animation=fadeIn" alt="RRRTX Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2300&pause=700&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=115&lines=%3E+booting+rrrtx.os...;%3E+syncing+Gemini+%E2%80%A2+Claude+%E2%80%A2+Groq...+OK;%3E+agentic+systems...+ONLINE;%3E+automation+daemon...+ACTIVE;%3E+turning+prompts+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=%3E+boot+rrrtx.os+--mode%3Dship;%3E+AI+products+%E2%80%A2+agent+workflows+%E2%80%A2+automation+systems;%3E+Gemini+%E2%80%A2+Claude+%E2%80%A2+Groq+%E2%80%A2+Python+%E2%80%A2+TypeScript;%3E+build+useful+things+%2F%2F+ship+publicly" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320" alt="Programming" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="360" alt="Productive Working" />
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-eight-omega-2lkbgyv3yr.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="28" height="28" alt="Portfolio" /></a>
+  <a href="https://my-portfolio-eight-omega-2lkbgyv3yr.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="30" height="30" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ahmadrrrtx"><img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub" /></a>
+  <a href="https://github.com/ahmadrrrtx"><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmadrrrtx/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ahmadrrrtx/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ahmad_rrrtx"><img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X" /></a>
+  <a href="https://x.com/ahmad_rrrtx"><img src="https://cdn.simpleicons.org/x/ffffff" width="30" height="30" alt="X" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ahmad_rrrtx"><img src="https://cdn.simpleicons.org/instagram/FF006E" width="28" height="28" alt="Instagram" /></a>
+  <a href="https://instagram.com/ahmad_rrrtx"><img src="https://cdn.simpleicons.org/instagram/FF006E" width="30" height="30" alt="Instagram" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmadrrrtx333@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" /></a>
+  <a href="mailto:ahmadrrrtx333@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/923137781543"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="WhatsApp" /></a>
+  <a href="https://wa.me/923137781543"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp" /></a>
 </p>
 
 <p align="center">
@@ -117,13 +117,17 @@ protocol_05  :: keep the brand sharp, keep the systems real
 ## // TELEMETRY
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadrrrtx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00D2FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=FF006E&custom_title=RRRTX.OS%20Telemetry" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ahmadrrrtx&theme=tokyonight&hide_border=true&background=05070D&ring=00D2FF&fire=FF006E&currStreakLabel=00D2FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b8b8b" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadrrrtx&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadrrrtx&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrrrtx&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00D2FF&text_color=c9d1d9" alt="Top Languages" />
-  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadrrrtx&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadrrrtx&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadrrrtx&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadrrrtx&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
@@ -133,12 +137,8 @@ protocol_05  :: keep the brand sharp, keep the systems real
 ## // VISUAL MODULES
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadrrrtx&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadrrrtx&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="320" alt="3D Cool Statistics" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="300" alt="Animated Working Man" />
 </p>
 
 ## // TRANSMISSION CHANNELS
@@ -159,7 +159,7 @@ protocol_05  :: keep the brand sharp, keep the systems real
     </td>
     <td align="center" width="96">
       <a href="https://www.linkedin.com/in/ahmadrrrtx/">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" /><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
