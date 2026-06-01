@@ -68,7 +68,7 @@
 
 <br>
 
-**🏆 Google AI Seekho Finalist &nbsp;·&nbsp; 🛡️ MLH Hackathon 2026 &nbsp;·&nbsp; 🌍 WLF Youth Ambassador**
+**🛡️ MLH Hackathon 2026 &nbsp;·&nbsp; 🌍 WLF Youth Ambassador**
 
 <br>
 
